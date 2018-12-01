@@ -1,0 +1,12 @@
+D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\CallApiInvoice.exe.config
+D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\CallApiInvoice.exe
+D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\CallApiInvoice.pdb
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.csprojResolveAssemblyReference.cache
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.Form1.resources
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.Properties.Resources.resources
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.csproj.GenerateResource.Cache
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.exe
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.pdb
+D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\Newtonsoft.Json.dll
+D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\Newtonsoft.Json.pdb
+D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\Newtonsoft.Json.xml
