@@ -1,2 +1,2 @@
 #Image
-![demo](http://url/to/img.png)
+![demo](https://github.com/giaynhap/RichTextJsonBeutifer/raw/master/Thumb.png)
