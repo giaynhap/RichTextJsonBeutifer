@@ -17,13 +17,17 @@ using System.Windows.Forms;
 
 namespace CallApiInvoice
 {
-    public partial class Form1 : Form
+    public partial class Form1 : UserControl
     {
         public Form1()
         {
             InitializeComponent();
         }
 
+        public void setEndpoint(string value)
+        {
+            this.txEndpoint.Text = value;
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             string endpoint = this.txEndpoint.Text;
@@ -118,7 +122,7 @@ namespace CallApiInvoice
 
         public string SyntaxHighlightJson(string original)
         {
-          
+
             return Regex.Replace(
               original,
               @"(¤(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\¤])*¤(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)".Replace('¤', '"'),
@@ -182,6 +186,11 @@ namespace CallApiInvoice
         private void txResponse_MouseUp(object sender, MouseEventArgs e)
         {
             txRequest_MouseUp(sender, e);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.Dock = DockStyle.Fill;
         }
     }
 }

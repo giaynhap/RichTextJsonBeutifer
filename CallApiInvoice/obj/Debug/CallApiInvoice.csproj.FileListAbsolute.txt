@@ -10,3 +10,6 @@ D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.pdb
 D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\Newtonsoft.Json.dll
 D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\Newtonsoft.Json.pdb
 D:\C#Project\CallApiInvoice\CallApiInvoice\bin\Debug\Newtonsoft.Json.xml
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.Dashboard.resources
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.UserControl1.resources
+D:\C#Project\CallApiInvoice\CallApiInvoice\obj\Debug\CallApiInvoice.AddNew.resources
